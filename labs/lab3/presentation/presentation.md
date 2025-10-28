@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа №2
+title: Лабораторная работа №3
 subtitle: "Кибербезопасность предприятия"
 author:
 
